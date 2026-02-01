@@ -2,8 +2,7 @@
 
 ## Context
 This project was developed as part of the **Travaux Pratiques in Predictive Analytics**
-at **Institut Supérieur de Gestion de Bizerte (ISGB)** under the supervision of  
-**Dr. Zouaoui Haykel**.
+at **Institut Supérieur de Gestion de Bizerte (ISGB)**
 
 The objective is to build an interactive **Shiny web application** to predict customer churn
 in the telecommunications sector using machine learning models.
